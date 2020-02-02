@@ -104,7 +104,7 @@ public class TwoW extends AppCompatActivity {
                     xyz = 0;
                 }
             }
-        });
+        });//ghkkjhjk
         final Button H1=(Button)findViewById( R.id.H1);
         H1.setOnClickListener(new View.OnClickListener() {
             int xyz=0;
